@@ -13,7 +13,10 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
+no
+disable
+com.sec.android.mdm.disable
+<PERMISION>
+<FEATURE NAME="COM.SEC.android.karrierdefault" />
 
-<permissions>
-    <feature name="com.sec.android.mdm" />
-</permissions>
+
